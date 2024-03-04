@@ -1,40 +1,33 @@
 # Algorithms_simulations
-A program that simulates the process of replacing pages and scheduling CPU time
+**Processes simulators of replacing pages and scheduling CPU time.**
+## Table of Contents
 
-## Spis Treści
+- [About the Project](#about-the-project)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Documentation](#documentation)
 
-- [O projekcie](#o-projekcie)
-- [Wymagania](#wymagania)
-- [Instalacja](#instalacja)
-- [Użycie](#użycie)
-- [Dokumentacja](#dokumentacja)
-- [Wkładanie do Projektu](#wkładanie-do-projektu)
-- [Licencja](#licencja)
+## About the Project
 
-## O Projekcie
+A program written in **Python 3** that simulates the **FIFO** (First In First Out) and **LRU** (Last Recently Used) page replacement algorithms as well as the **FCFS** (First Come First Served) and **SJF** (Shortest Job First) CPU time scheduling algorithms.
 
-Opis dłuższy projektu znajduje się tutaj. Możesz tu opisać cele projektu, jego zastosowania, funkcje itp.
+My random number **generators** allow to extract statistical data.
 
-## Wymagania
+In the code I use **Object Oriented Programming** to store page and process objects.
 
-Opis wymagań, które są niezbędne do uruchomienia projektu, np. oprogramowanie, biblioteki, inne zależności.
+You can find [documentation](#documentation) with code description and data analysis
 
-## Instalacja
+## Requirements
 
-Instrukcje dotyczące instalacji projektu. Możesz tu opisać kroki niezbędne do uruchomienia projektu na lokalnym środowisku.
+- Python 3
 
-## Użycie
+- IDE for Python
 
-Instrukcje dotyczące używania projektu. Możesz tu opisać przykłady użycia, komendy, parametry itp.
+## Usage
 
-## Dokumentacja
+Instructions for using the project. You can describe usage examples, commands, parameters, etc.
 
-Linki do dokumentacji projektu, jeśli są dostępne.
+## Documentation
 
-## Wkładanie do Projektu
+[Documentation and report](Report_Wiktoria_Migasiewicz.pdf)
 
-Instrukcje dla osób chcących przyczynić się do projektu, np. jak zgłaszać błędy, proponować nowe funkcje, tworzyć "pull requesty" itp.
-
-## Licencja
-
-Informacje o licencji projektu. Możesz tu umieścić nazwę licencji oraz link do pełnego tekstu licencji.
