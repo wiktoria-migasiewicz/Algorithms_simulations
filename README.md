@@ -17,11 +17,6 @@ In the code I use **Object Oriented Programming** to store page and process obje
 
 You can find [documentation](#documentation) with code description and data analysis.
 
-![Picture 1](picture1.png "Example of data analysis from my report #1")
-
-![Pciture 2](picture2.png "Example of data analysis from my report #2")
-
-
 ## Requirements
 
 - Python 3
