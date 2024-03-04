@@ -15,7 +15,12 @@ My random number **generators** allow to extract statistical data.
 
 In the code I use **Object Oriented Programming** to store page and process objects.
 
-You can find [documentation](#documentation) with code description and data analysis
+You can find [documentation](#documentation) with code description and data analysis.
+
+![Picture 1](picture1.png "Example of data analysis from my report #1")
+
+![Pciture 2](picture2.png "Example of data analysis from my report #2")
+
 
 ## Requirements
 
@@ -25,7 +30,7 @@ You can find [documentation](#documentation) with code description and data anal
 
 ## Usage
 
-Instructions for using the project. You can describe usage examples, commands, parameters, etc.
+Project can be used to analyze behavior of algorithms depending on the input data.
 
 ## Documentation
 
